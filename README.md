@@ -1,3 +1,4 @@
+To run the app on chrome download the file and run flutter run. 
 # weather
 you need your own personal API keys from http://api.openweathermap.org to build and use the app. Fill the api key in the forecastutil.dart file at the 
 
@@ -13,3 +14,5 @@ static String getFormatteddate(DateTime dateTime) {
 return new DateFormat("EEE, MMM d, yy").format(dateTime);
 
 } }
+
+To run the app on chrome download the file and run flutter run. 
